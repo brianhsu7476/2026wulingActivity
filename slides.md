@@ -311,7 +311,7 @@ $$\frac{\text{左邊的價格}}{\text{右邊的價格}}$$
 
 </div>
 <div style="flex:0 0 42%; text-align:center;">
-<img src="photo/IMG_0742.jpg" alt="Day 3 路況" style="width:100%; max-height:400px; border-radius:8px; object-fit:contain;" />
+<img src="photo/IMG_0742.jpg" alt="Day 3 路況" style="width:100%; max-height:500px; border-radius:8px; object-fit:contain;" />
 </div>
 </div>
 
