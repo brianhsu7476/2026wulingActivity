@@ -85,6 +85,7 @@ footer: '許博翔 · 台大單車社'
 
 - 路上有不少棒球到足球大小的石頭，慢慢騎小心不要碾到
 - 燕子口隧道出口（之前是堰塞湖）有很多石頭，務必小心
+<video src='photo/IMG_0658.mp4' controls autoplay muted loop playsinline width="360"></video>
 
 ---
 
