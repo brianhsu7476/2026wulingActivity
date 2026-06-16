@@ -34,7 +34,7 @@ footer: '許博翔 · 台大單車社'
 ## 主辦 & 協辦
 
 - **主辦**：許博翔（0921279856）
-- **協辦**：陳冠衡（0902127112）
+- **協辦**：陳冠衡（0972831005）
 
 ---
 
@@ -61,6 +61,14 @@ footer: '許博翔 · 台大單車社'
 - 路線：**新城 → 天祥**
 - 距離：**21.2 km** · 爬升：**500 m**
 - [Strava 路線](https://www.strava.com/routes/3501622353220525028)
+
+---
+
+## Day 1 路線（6/19）
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:flex-start;">
+<img src="photo/Day1.png" style="max-height:500px; object-fit:cover; border-radius:6px;" /><br>
+</div>
 
 ---
 
@@ -122,6 +130,14 @@ footer: '許博翔 · 台大單車社'
 - 路線：**天祥 → 關原**
 - 距離：**52.25 km** · 爬升：**2300 m**
 - [Strava 路線](https://www.strava.com/routes/3489054365249378784)
+
+---
+
+## Day 2 路線（6/20）
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:flex-start;">
+<img src="photo/Day2.png" style="max-height:500px; object-fit:cover; border-radius:6px;" /><br>
+</div>
 
 ---
 
@@ -212,6 +228,14 @@ $$\frac{\text{左邊的價格}}{\text{右邊的價格}}$$
 - 距離：**69.0 km** · 爬升：**1044 m**
 - [Strava 路線](https://www.strava.com/routes/3489054672525609440)
 - 抵達埔里後自行安排回程交通
+
+---
+
+## Day 3 路線（6/21）
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:flex-start;">
+<img src="photo/Day3.png" style="max-height:500px; object-fit:cover; border-radius:6px;" /><br>
+</div>
 
 ---
 
