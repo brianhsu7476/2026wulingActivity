@@ -12,6 +12,9 @@ footer: '許博翔 · 台大單車社'
 <!-- _class: lead -->
 <!-- _paginate: false -->
 
+<div style="display:flex; gap:28px; align-items:center; justify-content:space-between;">
+<div style="flex:1; text-align:left;">
+
 # 2026 東進武嶺
 
 台大單車社武嶺大活動行前說明會
@@ -19,6 +22,12 @@ footer: '許博翔 · 台大單車社'
 **6/19（四）— 6/21（六）· 三天兩夜**
 
 2026-06-16
+
+</div>
+<div style="flex:0 0 52%; text-align:center;">
+<img src="photo/IMG_0920.JPG" alt="2026 東進武嶺" style="max-height:520px; max-width:100%; border-radius:10px; object-fit:cover;" />
+</div>
+</div>
 
 ---
 
@@ -81,11 +90,30 @@ footer: '許博翔 · 台大單車社'
 
 ---
 
+## Day 1 景點
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-top:8px;">
+<video src="photo/IMG_0652.mp4" controls muted loop playsinline autoplay style="width:250px; border-radius:6px;"></video>
+<video src="photo/IMG_0654.mp4" controls muted loop playsinline autoplay style="width:250px; border-radius:6px;"></video>
+<video src="photo/IMG_0656.mp4" controls muted loop playsinline autoplay style="width:250px; border-radius:6px;"></video>
+<video src="photo/IMG_0657.mp4" controls muted loop playsinline autoplay style="width:250px; border-radius:6px;"></video>
+</div>
+
+---
+
 ## Day 1 路況
+
+<div style="display:flex; gap:24px; align-items:center;">
+<div style="flex:1;">
 
 - 路上有不少棒球到足球大小的石頭，慢慢騎小心不要碾到
 - 燕子口隧道出口（之前是堰塞湖）有很多石頭，務必小心
-<video src='photo/IMG_0658.mp4' controls autoplay muted loop playsinline width="360"></video>
+
+</div>
+<div style="flex:0 0 340px; text-align:center;">
+<video src="photo/IMG_0658.mp4" controls muted loop playsinline autoplay style="width:100%; max-height:500px; border-radius:6px;"></video>
+</div>
+</div>
 
 ---
 
@@ -116,11 +144,65 @@ footer: '許博翔 · 台大單車社'
 
 ---
 
+## Day 2 景點
+
+<div style="text-align:center;">
+<img src="photo/IMG_0841.jpg" alt="Day 2 景點" style="max-height:440px; max-width:92%; border-radius:8px;" />
+</div>
+
+---
+
+## Day 2 景點
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:flex-start;">
+<img src="photo/IMG_0691.jpg" alt="IMG_0691" style="max-height:500px; object-fit:cover; border-radius:6px;" /><br>
+</div>
+
+---
+
+## Day 2 景點
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:flex-start;">
+<video src="photo/IMG_0696.mp4" controls muted loop playsinline autoplay style="width:280px; border-radius:6px;"></video>
+<video src="photo/IMG_0708.mp4" controls muted loop playsinline autoplay style="width:280px; border-radius:6px;"></video>
+<video src="photo/IMG_0709.mp4" controls muted loop playsinline autoplay style="width:280px; border-radius:6px;"></video>
+</div>
+
+---
+
+## Day 2 路況
+
+- 除了快到關原管制站前兩公里外，其餘路況良好
+
+---
+
 ## Day 2 晚餐
 
-- 一碗\$70的泡麵
-- 住宿點可以訂晚餐（\$250，不含在報名費中），要的人請在今晚23:59前在群組按表情
+估計大賽：
+$$\frac{\text{左邊的價格}}{\text{右邊的價格}}$$
+最接近多少？
+<div style="display:flex; gap:16px; justify-content:center; align-items:center;">
+<img src="photo/IMG_1371.JPG" alt="Day 2 晚餐" style="max-height:440px; max-width:46%; border-radius:8px; object-fit:contain;" />
+<img src="photo/IMG_1374.JPG" alt="Day 2 晚餐" style="max-height:440px; max-width:46%; border-radius:8px; object-fit:contain;" />
+</div>
+
+---
+
+## Day 2 晚餐
+
+<div style="display:flex; gap:20px; align-items:center;">
+<div style="flex:0 0 40%; font-size:0.92em;">
+
+- 一碗 \$70 的泡麵
+- 住宿點可以訂晚餐（\$???，不含在報名費中），要的人請在今晚 23:59 前在群組按表情
 - 關原加油站肉粽（騎快的才有）
+
+</div>
+<div style="flex:1; display:flex; gap:10px; justify-content:center;">
+<img src="photo/IMG_0716.jpg" alt="泡麵" style="width:48%; max-height:360px; border-radius:8px; object-fit:contain;" />
+<img src="photo/IMG_0845.jpg" alt="肉粽" style="width:48%; max-height:360px; border-radius:8px; object-fit:contain;" />
+</div>
+</div>
 
 ---
 
@@ -136,19 +218,78 @@ footer: '許博翔 · 台大單車社'
 ## Day 3 注意事項
 
 - 自 [救國團觀雲山莊](https://maps.app.goo.gl/Q21XFDdxZwNzvxmk8)（關原）出發
-- **一定要吃早餐！** 出發時間前一天晚上於群組宣佈
+- （正常）出發時間：早上8:30，住宿點7:30有提供早餐
 - 大禹嶺—武嶺非常陡，小心不要定竿；快定竿時下來牽車比摔車好
 - 到武嶺後自行解散，可跟大隊下滑至埔里
-- 台八 86k、104.8k 有坑洞
+
+---
+
+## Day 3 日出加碼團
+
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+<img src="photo/IMG_0888.jpg" alt="日出" style="max-height:500px; object-fit:cover; border-radius:8px;" />
+<img src="photo/IMG_0890.jpg" alt="日出" style="max-height:500px; object-fit:cover; border-radius:8px;" />
+</div>
+
+---
+
+## Day 3 日出加碼團
+
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+<img src="photo/IMG_0891.jpg" alt="日出" style="max-height:440px; max-width:46%; object-fit:cover; border-radius:8px;" />
+<img src="photo/IMG_0927.jpg" alt="日出" style="max-height:440px; max-width:46%; object-fit:cover; border-radius:8px;" />
+</div>
+
+---
+
+## Day 3 日出加碼團
+
+<div style="display:flex; gap:16px; justify-content:center; align-items:center;">
+<img src="photo/IMG_0952.jpg" alt="日出" style="max-height:440px; max-width:46%; border-radius:8px; object-fit:contain;" />
+<img src="photo/IMG_0956.jpg" alt="日出" style="max-height:440px; max-width:46%; border-radius:8px; object-fit:contain;" />
+</div>
+
+---
+
+## Day 3 日出加碼團
+
+- 日出時間：5:04
+- 觀看日出地點：小風口至石門山
+- 出發時間：3:30
+- 務必攜帶前後燈
+- 看完日出（5:30）會上武嶺（6:30）拍照，再下滑回關原吃早餐（7:30）
 
 ---
 
 ## Day 3 補給
 
-- 榮興派出所（補水）
 - 大禹嶺（可能有人賣水果，有廁所）
-- 合歡山管理站（便當 180、雞塊 70、威德 50）
+- 合歡山管理站（小風口）（便當 180、雞塊 70、威德 50）
 - 松雪樓
+
+---
+
+## Day 3 景點
+
+- 石門山
+- 合歡東峰
+- 合歡主峰
+
+---
+
+## Day 3 路況
+
+<div style="display:flex; gap:24px; align-items:center;">
+<div style="flex:1;">
+
+- 關原至大禹嶺，以及小風口至海拔 3000 公尺，這兩段有些地方在施工
+- 其餘路段路況良好
+
+</div>
+<div style="flex:0 0 42%; text-align:center;">
+<img src="photo/IMG_0742.jpg" alt="Day 3 路況" style="width:100%; max-height:400px; border-radius:8px; object-fit:contain;" />
+</div>
+</div>
 
 ---
 
@@ -210,17 +351,14 @@ footer: '許博翔 · 台大單車社'
 
 ## 住
 
-- **三天兩夜**：Day 1 天祥、Day 2 關原（觀雲山莊），Day 3 無住宿
-- 可帶簡易盥洗用具（住宿點皆有提供）
+- **三天兩夜**：Day 1 天祥、Day 2 關原（觀雲山莊）
+- 盥洗用具（牙膏、牙刷等）
 - 衣服不用多：一套騎乘、一套睡覺即可
-- 第一天衣服手洗，第二天有洗衣機
 - **嚴禁晚上自行出去騎車**
 
 ---
 
 ## 物品清單（1/3）
-
-[完整清單參考](https://docs.google.com/document/d/1DixY2odQoRciyd_bOrnQYqenfryQFl0TKirEZRXTGsA/edit)
 
 - **穿**：安全帽、車衣車褲、襪子、（手套、風鏡、卡鞋、心率帶）
 - **口袋**：小錢包、面紙、（扣片保護套）
@@ -249,19 +387,8 @@ footer: '許博翔 · 台大單車社'
 ## 分享位置資訊
 
 - 全程自由騎乘，請事先確認 Day 1–3 Strava 路線
-- 加碼請事先告知主辦，並確保體力與時間可行；**Day 1、Day 2 須 18:00 前到住宿點**
+- 加碼請事先告知主辦，並確保體力與時間可行；**Day 1、Day 2 須 16:30 前到住宿點**
 - 活動期間全程 [Google Map 分享位置](https://hackmd.io/@701-Coder/shareLocation)（每天需重開，解散後可關）
-
----
-
-## 推薦加碼點
-
-體力 OK 才可加碼，且自行看好路線！
-
-- **宜 51**：泰勝門市後台七替代路，爬升比台七多約 300m
-- **武陵農場**：岔路 2.5km 至收費站，單車進站免費，進農場學生票 130
-- **環山部落**：7-11 環山門市旁岔路 1.1km
-- **第二天放行李後**：福壽山（4km／249m）、天池（+10km／596m）、德基水庫管制點（21km 丘陵）
 
 ---
 
